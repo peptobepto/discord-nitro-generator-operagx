@@ -5,3 +5,5 @@ want to impliment it
 
 I just havent becuase my proxy list is dogshit.
 anyway, have fun with free nitro!
+
+P.S: for all my script kiddies out there, pls remember to pip install all the required libraries BEFORE running the code
